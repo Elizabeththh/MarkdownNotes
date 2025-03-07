@@ -1,5 +1,5 @@
 # MarkdownNotes
-<font size=5>请使用支持`Markdown`的文本编辑器如[VSCode][1]、[Obsidian][2]打开</font>
+请使用支持`Markdown`的文本编辑器如[VSCode][1]、[Obsidian][2]打开
 
 ![下载文件](pic1.png)
 点击右上角的`Code`->`Download Zip`即可下载
