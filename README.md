@@ -1,5 +1,8 @@
 # MarkdownNotes
+<<<<<<< HEAD
 
+=======
+>>>>>>> 8b75963 (better format)
 ## 请使用支持`Markdown`的文本编辑器如[VSCode][1]、[Obsidian][2]打开
 
 ![下载文件](pic1.png)

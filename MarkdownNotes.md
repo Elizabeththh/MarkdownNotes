@@ -288,10 +288,10 @@ Markdown是一个**轻量级**的标记语言，旨在**尽可能易于阅读和
 
 
 [^1]: 这是脚注 
-[1]:<https://stackoverflow.com/>
-[2]:<https://github.com/>
-[3]:<https://www.reddit.com/?rdt=42186>
-[4]:<https://dillinger.io/> "在线markdown编辑器"
+[1]:<https://stackoverflow.com/>  
+[2]:<https://github.com/>  
+[3]:<https://www.reddit.com/?rdt=42186>  
+[4]:<https://dillinger.io/> "在线markdown编辑器"  
 
 
 
