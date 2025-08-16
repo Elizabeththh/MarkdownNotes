@@ -231,7 +231,7 @@ Markdown是一个**轻量级**的标记语言，旨在**尽可能易于阅读和
   ### 图像
   添加图像的语法和链接大同小异：  
   `![图片显示名](图片路径或者URL "图片title")`  
-  [The Starry Night](https://www.wga.hu/art/g/gogh_van/12/cypres01.jpg "星夜")
+  ![The Starry Night](https://www.wga.hu/art/g/gogh_van/12/cypres01.jpg "星夜")
 
   ### 转义字符
   像大多数编程语言一样，markdown也通过转义字符`\`转义紧随其后的具有特殊意义的字符如`*`、`-`  
